@@ -2,6 +2,8 @@
 
 本ディレクトリは、統合計画書 `bitcoin_quant_ai_research_summary.md` の開発ロードマップを、実行単位ごとに分割したものである。
 
+開発言語、データベース、ワークフロー、実験管理、API、監視などの共通開発環境は、[`development_environment_framework.md`](../development_environment_framework.md) を参照する。
+
 ## 進行順序
 
 | Phase | 内容 | 主な完了条件 |
