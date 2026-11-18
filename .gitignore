@@ -1,0 +1,38 @@
+# Passwords and credentials
+*[Pp][Aa][Ss][Ss][Ww][Oo][Rr][Dd]*
+*[Pp][Aa][Ss][Ss][Ww][Dd]*
+*[Ss][Ee][Cc][Rr][Ee][Tt]*
+*[Cc][Rr][Ee][Dd][Ee][Nn][Tt][Ii][Aa][Ll]*
+
+# Environment files (keep shareable templates)
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
